@@ -17,7 +17,7 @@ set shiftwidth=4
 "set relativenumber	"显示光标所在的当前行的行号
 set cursorline	"光标所在的当前行高亮
 set textwidth=80	"设置行宽，即一行显示多少个字符
-set wrap	"自动折行，即太长的行分成几行显示
+"set wrap	"自动折行，即太长的行分成几行显示
 set linebreak	"只有遇到指定的符号（比如空格、连词号和其他标点符号），才发生折行。也就是说，不会在单词内部折行。
 
 set ignorecase	"搜索时忽略大小写
